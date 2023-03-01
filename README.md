@@ -8,9 +8,10 @@
 ctrl + alt + l 自动设置好格式
 ctrl + alt + m 自动把圈中代码生成方法
 shift + f6 把变量用到的地方同时修改名字
-数组名。fori可以自动生成数组遍历循环
+数组名。fori可以自动生成数组遍历循环, string名。length。fori自动生成字符串遍历
 psvm 生成默认main方法
 alt + insert生成构造方法
 setting plugin安装ptg插件可以自动生成构造方法
 ctrl + p显示方法参数
-ctrrl + b 追溯方法源码
+ctrl + b 追溯方法源码
+ctrl + alt + v 自动生成左边代码
